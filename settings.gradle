@@ -1,0 +1,5 @@
+rootProject.name = 'msa-practice'
+include 'eureka'
+include 'gateway'
+include 'userservice'
+include 'configservice'
